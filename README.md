@@ -9,7 +9,7 @@ Autocomplete-Search for GitHub requires [Node.js](https://nodejs.org/) v10+ to r
 Install the dependencies and devDependencies and start the app.
 
 ```sh
-cd nomade
+cd nomady
 yarn
 yarn start
 ```
