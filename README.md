@@ -9,7 +9,7 @@ Autocomplete-Search for GitHub requires [Node.js](https://nodejs.org/) v10+ to r
 Install the dependencies and devDependencies and start the app.
 
 ```sh
-cd lets-draw
+cd nomade
 yarn
 yarn start
 ```
@@ -29,6 +29,8 @@ I tried to create a clean, presentable solution.
 - the clean-up of the application
 - change the Autocomplete package
 - create a env file to store the token
+- I did not move all the styles into styles variable
+- I did not used separate handler/function inside of onPress attribute
 
 ## If you could start again from scratch, what would you do differently?
 
