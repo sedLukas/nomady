@@ -40,3 +40,10 @@ I tried to create a clean, presentable solution.
 ## What were the most significant challenges solving the assignment?
 
 - I would say that the challenge was quiet straightforward and easy. I have developed main parts of the solution in an 1:45. The rest of the time I have spend with the ugly borders, tests, cleanUp of unnecessary code.
+
+
+## Preview
+<img width="314" align="left" alt="Screenshot 2021-10-20 at 17 52 05" src="https://user-images.githubusercontent.com/83003922/138127576-81dd521c-4bc2-4057-94d5-85be5ce701ce.png">
+<img width="323" align="left" alt="Screenshot 2021-10-20 at 17 53 19" src="https://user-images.githubusercontent.com/83003922/138127800-d7d02d27-1a45-467c-a898-637e1b892244.png">
+
+
