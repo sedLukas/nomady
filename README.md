@@ -20,7 +20,7 @@ I tried to create a clean, presentable solution.
 
 ## What do you dislike about your solution?
 
-- I got stacked with a few problems and only tried to hack it rather than redo the hole part. (I could not get rid of borders in resultList)
+- I got stucked with a few problems and only tried to hack it rather than redo the hole part. (I could not get rid of borders in resultList)
 - I was afraid of the time slot, so I decided to clean up as much as possible rather than start from blank project again.
 
 ## If you had more time, what would you have been improving?
@@ -28,6 +28,7 @@ I tried to create a clean, presentable solution.
 - I am not very much satisfied with the tests,
 - the clean-up of the application
 - change the Autocomplete package
+- create a env file to store the token
 
 ## If you could start again from scratch, what would you do differently?
 
