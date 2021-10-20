@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders StyledAutocomplete correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#fff",
+      },
+      Object {
+        "alignContent": "center",
+        "alignItems": "center",
+        "borderBottomColor": "silver",
+        "borderBottomWidth": 1,
+        "borderColor": "transparent",
+        "flex": 1,
+        "flexDirection": "row",
+        "left": 0,
+        "padding": 5,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+        "zIndex": 1,
+      },
+    ]
+  }
+>
+  <Text />
+  <View
+    style={
+      Array [
+        Object {
+          "zIndex": 1,
+        },
+        Object {
+          "borderColor": "transparent",
+          "borderWidth": 0,
+          "flex": 1,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#b9b9b9",
+            "borderRadius": 1,
+            "borderWidth": 1,
+          },
+          Object {
+            "borderColor": "transparent",
+          },
+        ]
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        autoCorrect={false}
+        containerStyle={
+          Object {
+            "borderColor": "transparent",
+            "borderWidth": 0,
+            "flex": 1,
+          }
+        }
+        data={Array []}
+        editable={true}
+        flatListProps={
+          Object {
+            "keyExtractor": [Function],
+            "keyboardShouldPersistTaps": "always",
+            "renderItem": [Function],
+          }
+        }
+        inputContainerStyle={
+          Object {
+            "borderColor": "transparent",
+          }
+        }
+        onChangeText={[Function]}
+        onStartShouldSetResponderCapture={[Function]}
+        placeholder="Type in a GitHub username..."
+        rejectResponderTermination={true}
+        renderTextInput={[Function]}
+        style={
+          Array [
+            Object {
+              "backgroundColor": "white",
+              "height": 40,
+              "paddingLeft": 3,
+            },
+            undefined,
+          ]
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+    </View>
+    <View
+      onStartShouldSetResponderCapture={[Function]}
+    />
+  </View>
+  <Text />
+</View>
+`;
